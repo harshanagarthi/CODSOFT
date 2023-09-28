@@ -4,3 +4,5 @@ So finally we got the results as :<br>
     Through Random Forest model we got 98% accuracy.<br>
     
     So, we can conclude that all the models used can be best suitable (>95%)
+
+    Author name: Harshavardhan N
